@@ -20,8 +20,8 @@ Running Tests:
 	Employee Role
 2. CSV Should have two rows of data.
 3. "Site URL" enter the following: https://mancera.sharepoint.com/sites/TfLCodingChallenge
-4. "UserID" enter the following: edwin@mancera.onmicrosoft.com
-5. "Password" enter the following (case sensitive): H3ll0W0rld
+4. "UserID" enter your UserID
+5. "Password" enter your password
 6. Click "Create"
 7. You should get a message box saying "Task Completed"
 8. Go to: https://mancera.sharepoint.com/sites/TfLCodingChallenge
