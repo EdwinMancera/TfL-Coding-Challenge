@@ -11,13 +11,13 @@ Not Required, just run the .exe file.
 
 # Running Tests #
 1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):<br />
-Title<br />
-Employee First Name<br />
-Employee Surname<br />
-Employee ID<br />
-Employee Location<br />
-Employee Age<br />
-Employee Role<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Title<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Employee First Name<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Employee Surname<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Employee ID<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Employee Location<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Employee Age<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Employee Role<br />
 2. CSV Should have two rows of data.
 3. "Site URL" enter the following: https://mancera.sharepoint.com/sites/TfLCodingChallenge
 4. "UserID" enter your UserID
@@ -36,15 +36,15 @@ Employee Role<br />
 
 # Testing For Errors: #
 1. Click "Create" with any empty fields:<br />
-No dialog box will appear but instead only highlighted with an error marker.
+&nbsp;&nbsp;&nbsp;&nbsp;No dialog box will appear but instead only highlighted with an error marker.
 2. Click "Create" with incorrect Site URL:<br />
-Dialog box should appear with "Please make sure Site URL is correct"<br />
-And the affected fields are highlighted with an error marker.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Dialog box should appear with "Please make sure Site URL is correct"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;And the affected fields are highlighted with an error marker.<br />
 3. Click "Create" with incorrect Login Details:<br />
-Dialog box should appear with "Please make sure your login details are correct"<br />
-And the affected fields are highlighted with an error marker.<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Dialog box should appear with "Please make sure your login details are correct"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;And the affected fields are highlighted with an error marker.<br />
 4. Click "Create" when list already created:<br />
-Dialog box should appear with "List already exists"<br />
+&nbsp;&nbsp;&nbsp;&nbsp;Dialog box should appear with "List already exists"<br />
 5. All errors are logged and saved in the same directory.<br />
 
 # Bugs: #
