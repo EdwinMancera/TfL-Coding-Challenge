@@ -37,18 +37,14 @@ Employee Role
 Testing For Errors:
 1. Click "Create" with any empty fields:
 No dialog box will appear but instead only highlighted with an error marker.
-
 2. Click "Create" with incorrect Site URL:
 Dialog box should appear with "Please make sure Site URL is correct"
 And the affected fields are highlighted with an error marker.
-
 3. Click "Create" with incorrect Login Details:
 Dialog box should appear with "Please make sure your login details are correct"
 And the affected fields are highlighted with an error marker.
-
 4. Click "Create" when list already created:
 Dialog box should appear with "List already exists"
-
 5. All errors are logged and saved in the same directory.
 
 Bugs:
