@@ -11,13 +11,13 @@ Not Required
 
 Running Tests:
 1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):
-	Title
-	Employee First Name
-	Employee Surname
-	Employee ID
-	Employee Location
-	Employee Age
-	Employee Role
+> Title
+> Employee First Name
+> Employee Surname
+> Employee ID
+> Employee Location
+> Employee Age
+> Employee Role
 2. CSV Should have two rows of data.
 3. "Site URL" enter the following: https://mancera.sharepoint.com/sites/TfLCodingChallenge
 4. "UserID" enter your UserID
@@ -35,17 +35,21 @@ Running Tests:
 16. Test down
 
 Testing For Errors:
-Click "Create" with any empty fields:
-	No dialog box will appear but instead only highlighted with an error marker.
-Click "Create" with incorrect Site URL:
-	Dialog box should appear with "Please make sure Site URL is correct"
-	And the affected fields are highlighted with an error marker.
-Click "Create" with incorrect Login Details:
-	Dialog box should appear with "Please make sure your login details are correct"
-	And the affected fields are highlighted with an error marker.
-Click "Create" when list already created:
-	Dialog box should appear with "List already exists"
-All errors are logged and saved in the same directory.
+1. Click "Create" with any empty fields:
+No dialog box will appear but instead only highlighted with an error marker.
+
+2. Click "Create" with incorrect Site URL:
+Dialog box should appear with "Please make sure Site URL is correct"
+And the affected fields are highlighted with an error marker.
+
+3. Click "Create" with incorrect Login Details:
+Dialog box should appear with "Please make sure your login details are correct"
+And the affected fields are highlighted with an error marker.
+
+4. Click "Create" when list already created:
+Dialog box should appear with "List already exists"
+
+5. All errors are logged and saved in the same directory.
 
 Bugs:
 GUI assumes that the CSV is correct, so even if it's incorrect it will proceed with the list creation.
