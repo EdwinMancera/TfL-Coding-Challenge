@@ -1,15 +1,15 @@
 Template used for this: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
 # Project Title: #
-Tfl Coding Challenge
+<br />Tfl Coding Challenge
 
-Getting Started:
-Run "TfL Coding Challenge.exe"
+# Getting Started: #
+<br />Run "TfL Coding Challenge.exe"
 
-Installation:
-Not Required, just run the .exe file.
+# Installation: #
+<br />Not Required, just run the .exe file.
 
-Running Tests:
+# Running Tests: #
 1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):<br />
 Title<br />
 Employee First Name<br />
@@ -34,7 +34,7 @@ Employee Role<br />
 15. View should be sorted by "Employee Surname" ascending order.
 16. Test down
 
-Testing For Errors:
+# Testing For Errors: #
 1. Click "Create" with any empty fields:<br />
 No dialog box will appear but instead only highlighted with an error marker.
 2. Click "Create" with incorrect Site URL:<br />
@@ -47,7 +47,7 @@ And the affected fields are highlighted with an error marker.<br />
 Dialog box should appear with "List already exists"<br />
 5. All errors are logged and saved in the same directory.<br />
 
-Bugs:
+# Bugs: #
 GUI assumes that the CSV is correct, so even if it's incorrect it will proceed with the list creation.
 List will be created but with default columns.
 Work around is to simply delete the list and try again with a working CSV.
