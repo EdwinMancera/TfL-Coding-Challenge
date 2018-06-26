@@ -1,7 +1,7 @@
 Template used for this: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
-# Project Title: #
-<br />Tfl Coding Challenge
+# Project Title #
+Tfl Coding Challenge
 
 # Getting Started: #
 <br />Run "TfL Coding Challenge.exe"
