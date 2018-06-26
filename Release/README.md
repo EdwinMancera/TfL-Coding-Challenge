@@ -7,7 +7,7 @@ Getting Started:
 Run "TfL Coding Challenge.exe"
 
 Installation:
-Not Required
+Not Required, just run the .exe file.
 
 Running Tests:
 1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):
