@@ -3,13 +3,13 @@ Template used for this: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 # Project Title #
 Tfl Coding Challenge
 
-# Getting Started: #
-<br />Run "TfL Coding Challenge.exe"
+# Getting Started #
+Run "TfL Coding Challenge.exe"
 
-# Installation: #
-<br />Not Required, just run the .exe file.
+# Installation #
+Not Required, just run the .exe file.
 
-# Running Tests: #
+# Running Tests #
 1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):<br />
 Title<br />
 Employee First Name<br />
