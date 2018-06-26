@@ -11,13 +11,13 @@ Not Required
 
 Running Tests:
 1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):
-> Title
-> Employee First Name
-> Employee Surname
-> Employee ID
-> Employee Location
-> Employee Age
-> Employee Role
+Title
+Employee First Name
+Employee Surname
+Employee ID
+Employee Location
+Employee Age
+Employee Role
 2. CSV Should have two rows of data.
 3. "Site URL" enter the following: https://mancera.sharepoint.com/sites/TfLCodingChallenge
 4. "UserID" enter your UserID
