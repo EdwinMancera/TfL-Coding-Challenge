@@ -10,14 +10,14 @@ Installation:
 Not Required, just run the .exe file.
 
 Running Tests:
-1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):
-Title
-Employee First Name
-Employee Surname
-Employee ID
-Employee Location
-Employee Age
-Employee Role
+1. Click "Browse" and select CSV, should be comma delimited with the following Headers (CSV in the zip file):<br />
+Title<br />
+Employee First Name<br />
+Employee Surname<br />
+Employee ID<br />
+Employee Location<br />
+Employee Age<br />
+Employee Role<br />
 2. CSV Should have two rows of data.
 3. "Site URL" enter the following: https://mancera.sharepoint.com/sites/TfLCodingChallenge
 4. "UserID" enter your UserID
